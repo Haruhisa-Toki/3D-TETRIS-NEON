@@ -7,10 +7,7 @@
 
 ## デモ
 
-GitHub Pages を有効にすると以下のURLで遊べます。
-
-```
-https://<ユーザー名>.github.io/<リポジトリ名>/
+https://haruhisa-toki.github.io/3D-TETRIS-NEON/
 ```
 
 ## 遊び方
@@ -53,12 +50,6 @@ https://<ユーザー名>.github.io/<リポジトリ名>/
 - [Three.js](https://threejs.org/) r160（CDN / importmap で読み込み）
 - Vanilla JavaScript（ES Modules）・HTML・CSS のみ
 - 単一ファイル構成（`index.html`）
-
-## GitHub Pages での公開手順
-
-1. このリポジトリの **Settings → Pages** を開く
-2. **Source** を `Deploy from a branch`、ブランチを `main`（ルート `/`）に設定
-3. 数分後に `https://<ユーザー名>.github.io/<リポジトリ名>/` で公開されます
 
 ## ライセンス
 
